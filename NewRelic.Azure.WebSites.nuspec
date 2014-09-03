@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>NewRelic.Azure.WebSites</id>
-    <version>0.1</version>
-    <title>Installs New Relic in an Azure WebSite</title>
+    <version>0.1.1</version>
+    <title>New Relic</title>
     <authors>New Relic</authors>
     <licenseUrl>http://newrelic.com/terms</licenseUrl>
     <projectUrl>https://docs.newrelic.com/docs/agents/net-agent/azure-installation/azure-web-sites</projectUrl>
