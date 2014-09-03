@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NewRelic.Azure.WebSites</id>
+    <version>0.1</version>
+    <title>Installs New Relic in an Azure WebSite</title>
+    <authors>New Relic</authors>
+    <licenseUrl>http://newrelic.com/terms</licenseUrl>
+    <projectUrl>https://docs.newrelic.com/docs/agents/net-agent/azure-installation/azure-web-sites</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This extension adds all the necessary New Relic files into your Azure WebSite.</description>
+    <iconUrl>https://rpm.newrelic.com/images/v4/template/logo-newrelic-white.png</iconUrl>
+  </metadata>
+  <files>
+    <file src="content\**\*.*" target="content" />
+  </files>
+ </package>
